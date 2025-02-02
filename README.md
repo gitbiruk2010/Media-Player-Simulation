@@ -1,4 +1,5 @@
 # Media Player System - A Java Interface-Based Implementation
+![image](https://github.com/user-attachments/assets/aab69b4a-6998-4e18-86d4-1cb22866321e)
 
 ## Overview
 This project demonstrates the use of interfaces in Java to create a modular and scalable media player system. The system simulates the behavior of different types of media players (audio, video, and streaming) using a common interface. This design allows new types of players to be added easily without modifying the existing codebase.
